@@ -1,4 +1,4 @@
-# Coucou les élèves !
+# Exercices de javascript
 
 # Template Resources
 
