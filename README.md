@@ -1,1 +1,1 @@
-# Cours #1
+# Exercices de JavaScript
