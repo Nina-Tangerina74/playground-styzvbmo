@@ -4,3 +4,8 @@ title : Exercices de Javascript
 plan:
    - title: Exercice #1
      statement: markdowns/exo1.md
+
+projects:
+   js:
+      root: /js-projects
+      runner: techio/node-npm-runner:1.1.0-node-7.4
