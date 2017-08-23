@@ -5,6 +5,9 @@ plan:
    - title: Exercice #1
      statement: markdowns/exo1.md
 
+   - title: Exercice #2
+     statement: markdowns/exo2.md
+
 projects:
    js:
       root: /js-projects
