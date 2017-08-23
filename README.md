@@ -1,1 +1,1 @@
-# Exercices de JavaScript
+# Exercices de JavaScript sur Tech.io
