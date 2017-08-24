@@ -1,0 +1,10 @@
+{
+  "name": "Exercices de JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Valéry Bruniaux",
+  "license": "",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  }
+}
