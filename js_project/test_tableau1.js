@@ -4,7 +4,7 @@ var mod = require('./tableau1.js');
 it("Création du tableau contenant 1,2 et 3", function () {
   try
   {
-    assert.equal([1,2,3], mod.tableau);
+    assert.deepEqual( [1,2,3], mod.tableau );
   }
   catch (error)
   {
