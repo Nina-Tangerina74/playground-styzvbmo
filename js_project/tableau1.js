@@ -1,10 +1,10 @@
-// Créez un tableau qui contient 1, 2 et 3
+// Créez un tableau qui se nomme tablo et qui contient 1, 2 et 3
 
 
 
 
 // { autofold
 module.exports = {
-  tableau: tableau
+  tablo: tablo
 };
 // }

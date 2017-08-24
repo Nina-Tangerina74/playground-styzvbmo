@@ -1,4 +1,5 @@
-# Hands-on Demo
+# Création d'un tableau simple
 
-@[Luke, how many stars are there in these galaxies?]({ "stubs": ["tableau1.js"], "command": "node_modules/mocha/bin/mocha test_tableau1.js --reporter list" })
+@[Créez un tableau qui se nomme tablo et qui contient 1, 2 et 3]({ "stubs": ["tableau1.js"], "command": "node_modules/mocha/bin/mocha test_tableau1.js --reporter list" })
+
 
