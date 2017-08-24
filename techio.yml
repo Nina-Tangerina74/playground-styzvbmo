@@ -2,9 +2,9 @@ title : Exercices pour le cours d'ICN/ISN
 
 plan:
   - title: Début du JavaScript
-    statement: markdowns/exo1.md
+    statement: markdowns/debut.md
   - title: Les tableaux en JavaScript
-    statement: markdowns/exo2.md
+    statement: markdowns/tableau1.md
 
 projects:
   nodejs:
