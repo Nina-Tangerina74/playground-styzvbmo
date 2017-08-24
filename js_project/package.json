@@ -1,9 +1,9 @@
 {
-  "name": "Exercices pour le cours d'ICN/ISN",
+  "name": "nodejs-project-template",
   "version": "1.0.0",
   "description": "",
   "author": "Valéry Bruniaux",
-  "license": "",
+  "license": "ISC",
   "dependencies": {
     "mocha": "^3.4.2"
   }
