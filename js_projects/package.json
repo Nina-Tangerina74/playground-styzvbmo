@@ -1,12 +1,10 @@
 {
-  "name": "Exercices de JavaScript",
+  "name": "nodejs-project-template",
   "version": "1.0.0",
   "description": "",
-  "author": "Valéry Bruniaux",
-  "license": "",
+  "author": "FERNANDEZ Quentin",
+  "license": "ISC",
   "dependencies": {
-		"mocha": "*",
-		"should": ">= 0.0.1"
-	}
+    "mocha": "^3.4.2"
+  }
 }
-
