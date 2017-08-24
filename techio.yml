@@ -1,13 +1,11 @@
-title : Node.JS template
+title : Exercices pour le cours d'ICN/ISN
 
-# Table of contents
 plan:
-  - title: Welcome # Set the page title
-    statement: markdowns/exo2.md # Set the file path to the page content
-#  - title: Another Page
-#    statement: markdowns/another-page.md
+  - title: Début du JavaScript
+    statement: markdowns/exo1.md
+  - title: Les tableaux en JavaScript
+    statement: markdowns/exo2.md
 
-# Settings for your programming projects and the associated Docker images
 projects:
   nodejs:
     root: "/js_project"
