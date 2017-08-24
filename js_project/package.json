@@ -5,6 +5,7 @@
   "author": "Valéry Bruniaux",
   "license": "",
   "dependencies": {
-    "mocha": "^3.4.2"
-  }
+		"mocha": "*",
+		"should": ">= 0.0.1"
+	}
 }
