@@ -1,6 +1,17 @@
 var assert = require('assert');
-var universe = require('./universe.js');
+var universe = require('./exo2.js');
 
+it("Doit creer un tableau", function () {
+  try
+  {
+    assert.equal(1, exo2.tableau[1]);
+  }
+  catch (error)
+  {
+    printMessage('Conseil 💡', "Renvoyez la déclaration des tableaux ! 🤔");
+    throw error;
+  }
+});
 
 function printMessage(channel, message)
 {
