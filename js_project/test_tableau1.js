@@ -4,7 +4,7 @@ var mod = require('./tableau1.js');
 it("Création du tableau", function () {
   try
   {
-    assert.equal(1, mod.tableau[1]);
+    assert.equal([1,2,3], mod.tableau);
   }
   catch (error)
   {
