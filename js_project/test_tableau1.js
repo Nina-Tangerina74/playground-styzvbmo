@@ -1,7 +1,7 @@
 ﻿﻿var assert = require('assert');
 var mod = require('./tableau1.js');
 
-it(Création du tableau, function () {
+it("Création du tableau", function () {
   try
   {
     assert.equal(1, mod.tableau[1]);
