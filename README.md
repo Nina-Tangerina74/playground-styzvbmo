@@ -1,1 +1,1 @@
-# Exercices de JavaScript sur Tech.io
+# Exercices de JavaScript sur Tech.io pour le cours d'ICN/ISN
