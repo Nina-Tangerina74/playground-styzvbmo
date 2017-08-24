@@ -1,13 +1,13 @@
-title:Exercices de Javascript
+title: Exercices de Javascript
 
 plan:
-   - title:Exercices faciles
+   - title: Exercices faciles
      plan:
-     - title:Exercice #1
-       statement:markdowns/exo1.md
+     - title: Exercice #1
+       statement: markdowns/exo1.md
 
-     - title:Exercice #2
-       statement:markdowns/exo2.md
+     - title: Exercice #2
+       statement: markdowns/exo2.md
 
 projects:
    js:
