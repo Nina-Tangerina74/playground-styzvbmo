@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "author": "Valéry Bruniaux",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
     "mocha": "^3.4.2"
   }
