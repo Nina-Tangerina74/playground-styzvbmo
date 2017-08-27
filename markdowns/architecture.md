@@ -6,7 +6,7 @@
 -[ ] La résistance
 -[ ] Le condensateur
 
-?[La logique des ordinateurs reposent sur combien d'états possible ?]
+?[La logique des ordinateurs reposent sur combien d'états possibles ?]
 -[] 5
 -[] 3
 -[] 1
