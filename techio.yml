@@ -2,8 +2,12 @@ title : Exercices pour le cours d'ICN/ISN
 
 plan:
   - title: 1.Fonctionnement des machines informatiques
-    statement: markdowns/debut.md
-  - title: 2.Les tableaux en JavaScript
+    statement: markdowns/architecture.md
+
+  - title: 2.Apprendre à compter
+    statement: markdowns/binaire.md
+
+  - title: 3.Les tableaux en JavaScript
     statement: markdowns/tableau1.md
 
 projects:

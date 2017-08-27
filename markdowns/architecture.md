@@ -1,7 +1,5 @@
 # 1.Fonctionnement des machines informatiques
 
-## Architecture de base
-
 ?[Le composant électronique qui est à la base de la logique des ordinateur est ?]
 -[ ] La diode
 -[X] Le transistor
@@ -29,7 +27,7 @@
 ?[La fonction mémoire élémentaire présente dans la mémoire vive des ordinateurs est obtenue ?]
 -[X] En rebouclant des sorties de portes logiques sur certaines de leurs entrées
 -[] En greffant des neurones dans la machine
--[] Grace à un aimant qui aimante une mémoire dans un sens ou l'autre
+-[] Grâce à un aimant qui aimante une mémoire dans un sens ou l'autre
 -[] Avec un système à ressort qui maintient une position donnée
 
 ?[Pour pouvoir effectuer un algorithme la machine minimale doit être constituée de : ]
@@ -43,4 +41,3 @@
 -[X] La possibilité pour chaque composant de communiquer avec les autres éléments du système sans jamais être bloqué
 -[] Un accès plus rapide à la mémoire vive
 -[] Un microprocesseur qui travaille plus vite
-
