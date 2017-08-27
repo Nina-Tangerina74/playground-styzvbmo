@@ -7,10 +7,10 @@
 -[ ] Le condensateur
 
 ?[La logique des ordinateurs reposent sur combien d'états possible ?]
--[3]
--[5]
--[1]
--[2]
+-[] 5
+-[] 3
+-[] 1
+-[] 2
 
 ?[]
 -[ ]
