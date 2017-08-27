@@ -12,6 +12,12 @@
 -[] 1
 -[X] 2
 
+?[Au coeur de leurs composants les ordinateurs comptent en ?]
+-[] Héxadécimal (base 16)
+-[] Octal (base 8)
+-[X] Binaire (base 2)
+-[] Décimal (base 10)
+
 ?[Cochez toutes les propositions vraies :]
 -[X] Une fonction OR avec deux entrées à 1 donne une sortie à 1
 -[X] Une fonction XOR avec deux entrées à 1 donne une sortie à 0
