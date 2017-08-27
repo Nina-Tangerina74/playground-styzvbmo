@@ -1,10 +1,10 @@
 # Apprendre à compter
 
 Dans la suite nous prendrons les conventions suivantes :
-15d exprime le nombre 15 en décimal
-1100111b exprime le nombre 1100111 en binaire
-47o exprime le nombre 47 en octal
-0x4D exprime le nombre 4D en héxadécimal
+15d exprime le nombre 15 en décimal  
+1100111b exprime le nombre 1100111 en binaire  
+47o exprime le nombre 47 en octal  
+0x4D exprime le nombre 4D en héxadécimal  
 
 ?[Le nombre 47d exprimé en binaire donne ?]
 -[X] 101111b
