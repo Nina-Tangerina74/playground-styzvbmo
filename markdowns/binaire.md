@@ -1,7 +1,7 @@
 # Apprendre à compter
 
 Dans la suite nous prendrons les conventions suivantes :  
-15 __d__ exprime le nombre 15 en __décimal__  
+"15 __d__" exprime le nombre 15 en __décimal__  
 1100111 __b__ exprime le nombre 1100111 en __binaire__  
 47 __o__ exprime le nombre 47 en __octal__  
 __0x__ 49 exprime le nombre 49 en __héxadécimal__  
