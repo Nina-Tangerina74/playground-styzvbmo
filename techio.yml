@@ -7,6 +7,9 @@ plan:
   - title: Apprendre à compter
     statement: markdowns/binaire.md
 
+  - title: Langages et OS
+    statement: markdowns/langages.md
+
   - title: Les tableaux en JavaScript
     statement: markdowns/tableau1.md
 
