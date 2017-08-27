@@ -12,9 +12,9 @@
 -[] 1
 -[X] 2
 
-?[]
--[ ]
--[ ]
--[ ]
--[ ]
+?[Cochez toutes les propositions vraies :]
+-[X] Une fonction OR avec deux entrées à 1 donne une sortie à 1
+-[X] Une fonction XOR avec deux entrées à 1 donne une sortie à 0
+-[] Une fonction AND avec deux entrées à 1 donne une sortie à 0
+-[X] Une fonction NAND avec deux entrées à 1 donne une sortie à 0
 
