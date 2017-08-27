@@ -1,28 +1,34 @@
-# 1.Fonctionnement des machines informatiques
+# Apprendre à compter
 
-?[Le composant électronique qui est à la base de la logique des ordinateur est ?]
--[ ] La diode
--[X] Le transistor
--[ ] La résistance
--[ ] Le condensateur
+Dans la suite nous prendrons les conventions suivantes :
+15d exprime le nombre 15 en décimal
+1100111b exprime le nombre 1100111 en binaire
+47o exprime le nombre 47 en octal
+0x4D exprime le nombre 4D en héxadécimal
 
-?[La logique des ordinateurs reposent sur combien d'états possible ?]
--[] 5
--[] 3
--[] 1
--[X] 2
+?[Le nombre 47d exprimé en binaire donne ?]
+-[X] 101111b
+-[X] 0010 1111b
+-[ ] 110101b
+-[ ] 101110b
 
-?[Au coeur de leurs composants les ordinateurs comptent en ?]
--[] Héxadécimal (base 16)
--[] Octal (base 8)
--[X] Binaire (base 2)
--[] Décimal (base 10)
+?[Le nombre 255d exprimé en binaire donne ?]
+-[X] 1111 0111b
+-[ ] 0011 0011b
+-[ ] 1111 1111b
+-[ ] 0111 1111b
 
-?[Cochez toutes les propositions vraies :]
--[X] Une fonction OR avec deux entrées à 1 donne une sortie à 1
--[X] Une fonction XOR avec deux entrées à 1 donne une sortie à 0
--[] Une fonction AND avec deux entrées à 1 donne une sortie à 0
--[X] Une fonction NAND avec deux entrées à 1 donne une sortie à 0
+?[Le nombre 128d exprimé en binaire donne ?]
+-[] 0111 1110b
+-[] 1000 1000b
+-[] 0000 0001b
+-[X] 1000 0000b
+
+?[Le nombre 126d exprimé en binaire donne ?]
+-[ ] 1000 0010b
+-[ ] 0111 1101b
+-[X] 0111 1110b
+-[ ] 0011 1110b
 
 ?[La fonction mémoire élémentaire présente dans la mémoire vive des ordinateurs est obtenue ?]
 -[X] En rebouclant des sorties de portes logiques sur certaines de leurs entrées

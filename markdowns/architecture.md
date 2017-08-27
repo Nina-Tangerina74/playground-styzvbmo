@@ -1,4 +1,4 @@
-# 1.Fonctionnement des machines informatiques
+# Fonctionnement des machines informatiques
 
 ?[Le composant électronique qui est à la base de la logique des ordinateur est ?]
 -[ ] La diode
@@ -41,3 +41,4 @@
 -[X] La possibilité pour chaque composant de communiquer avec les autres éléments du système sans jamais être bloqué
 -[] Un accès plus rapide à la mémoire vive
 -[] Un microprocesseur qui travaille plus vite
+
