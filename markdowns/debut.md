@@ -32,3 +32,15 @@
 -[] Grace à un aimant qui aimante une mémoire dans un sens ou l'autre
 -[] Avec un système à ressort qui maintient une position donnée
 
+?[Pour pouvoir effectuer un algorithme la machine minimale doit être constituée de : ]
+-[] Un clavier, un écran et une souris
+-[] Un microprocesseur, une mémoire et un bus de communication
+-[] Un clavier, un écran, une souris, un disque dur et un compte Google
+-[X] Un circuit logique et une mémoire
+
+?[Qu'apportent les bus de communication dans les ordinateurs ?]
+-[] Moins de pollution car ils transportent plus de passagers à la fois
+-[X] La possibilité pour chaque composant de communiquer avec les autres éléments du système sans jamais être bloqué
+-[] Un accès plus rapide à la mémoire vive
+-[] Un microprocesseur qui travaille plus vite
+
