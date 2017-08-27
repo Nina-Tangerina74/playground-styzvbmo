@@ -8,7 +8,7 @@ Dans la suite nous prendrons les conventions suivantes :
 
 ?[Le nombre 47d exprimé en binaire donne ?]
 -[X] 101111b
--[X] 0010 1111b
+-[ ] 110111b
 -[ ] 110101b
 -[ ] 101110b
 
