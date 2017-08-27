@@ -1,6 +1,6 @@
 # Langages et OS
 
-Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/2017/03/00_cours_debut_info.pdf) est disponible sur le site de l'IREM.
+Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/?attachment_id=133) est disponible sur le site de l'IREM.
 
 ?[Le nombre 88d exprimé en octal donne ?]
 -[ ] 111o
