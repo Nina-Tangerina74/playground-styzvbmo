@@ -1,5 +1,7 @@
 # Apprendre à compter
 
+Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/2017/03/00_cours_debut_info.pdf) est disponible sur le site de l'IREM.
+
 Dans la suite nous prendrons les conventions suivantes :  
 15 __d__ exprime le nombre 15 en __décimal__  
 1100111 __b__ exprime le nombre 1100111 en __binaire__  
