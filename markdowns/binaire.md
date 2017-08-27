@@ -13,9 +13,9 @@ Dans la suite nous prendrons les conventions suivantes :
 -[ ] 101110b
 
 ?[Le nombre 255d exprimé en binaire donne ?]
--[X] 1111 0111b
+-[ ] 1111 0111b
 -[ ] 0011 0011b
--[ ] 1111 1111b
+-[X] 1111 1111b
 -[ ] 0111 1111b
 
 ?[Le nombre 128d exprimé en binaire donne ?]
