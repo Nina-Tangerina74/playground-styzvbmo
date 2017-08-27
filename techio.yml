@@ -1,7 +1,7 @@
 title : Exercices pour le cours d'ICN/ISN
 
 plan:
-  - title: Début du JavaScript
+  - title: Fonctionnement des machines informatiques
     statement: markdowns/debut.md
   - title: Les tableaux en JavaScript
     statement: markdowns/tableau1.md

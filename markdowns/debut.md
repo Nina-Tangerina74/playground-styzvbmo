@@ -1,7 +1,20 @@
-# 1.Exercice de javascript #1
+# 1.Fonctionnement des machines informatiques
 
-?[Pour écrire un programme qui affiche dans la page HTML Vive l'ISN il faut taper en javaScript :]
--[ ] Vive l'ISN
--[ ] Ecrit (Vive l'ISN)
--[X] document.write("Vive l'ISN") 
--[ ] Print "Vive l'ISN"
+?[Le composant électronique qui est à la base de la logique des ordinateur est ?]
+-[ ] La diode
+-[X] Le transistor
+-[ ] La résistance
+-[ ] Le condensateur
+
+?[La logique des ordinateurs reposent sur combien d'états possible ?]
+-[3]
+-[5]
+-[1]
+-[2]
+
+?[]
+-[ ]
+-[ ]
+-[ ]
+-[ ]
+
