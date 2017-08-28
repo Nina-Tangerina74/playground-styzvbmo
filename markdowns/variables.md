@@ -1,6 +1,6 @@
 # JavaScript - Les variables
 
-## La déclaration
+## Déclaration des variables
 
 Dans l'exercice ci-dessous vous devez créer les variables suivantes : 
 - __num__ qui contient le nombre 255  
