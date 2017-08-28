@@ -12,7 +12,7 @@ Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-c
 -[X] Exécution très rapide
 -[ ] Développement rapide
 -[ ] Facile à apprendre
--[X] Puissance
+-[X] Utilisé pour les grosses applications
 -[ ] Très utilisé sur le Web
 -[X] Très présent dans l'industrie
 -[ ] Applications mobiles
@@ -21,7 +21,7 @@ Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-c
 -[ ] Exécution très rapide
 -[ ] Développement rapide
 -[ ] Facile à apprendre
--[X] Puissance
+-[X] Utilisé pour les grosses applications
 -[ ] Très utilisé sur le Web
 -[X] Très présent dans l'industrie
 -[X] Applications mobiles
@@ -30,7 +30,7 @@ Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-c
 -[ ] Exécution très rapide
 -[X] Développement rapide
 -[X] Facile à apprendre
--[ ] Puissance
+-[ ] Utilisé pour les grosses applications
 -[ ] Très utilisé sur le Web
 -[ ] Très présent dans l'industrie
 -[ ] Applications mobiles
@@ -39,7 +39,7 @@ Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-c
 -[ ] Exécution très rapide
 -[X] Développement rapide
 -[X] Facile à apprendre
--[ ] Puissance
+-[ ] Utilisé pour les grosses applications
 -[X] Très utilisé sur le Web
 -[X] Très présent dans l'industrie
 -[X] Applications mobiles
@@ -51,14 +51,14 @@ Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-c
 -[ ] c'est un composant de la carte vidéo
 
 ?[A quoi sert l'OS du système ?]
--[X] A faire assurer le partage des tâches entre les composants de la machine
--[ ] A faire les calculs et exécuter les programmes
--[X] A faire le lien entre l'utilisateur et la machine
--[X] A faire le lien entre les applications et les composants électroniques
+-[X] A gérer les fichiers et la sécurité
+-[ ] A gérer les calculs de la machine
+-[X] A gérer l'interface utilisateur
+-[X] A gérer les entrées/sorties
 
 ?[Quels sont les avantages des OS Open-Source sur les OS fermés ?]
--[X] On sait vraiment ce qu'ils font (pas de portes dérobées)
+-[X] On sait vraiment ce qu'ils font (pas de backdoor)
 -[X] Il y'a moins de bugs et de failles de sécurité
 -[X] Il y'a moins de virus voire pas du tout
--[X] Ils sont gratuits et modifiables
+-[X] Ils sont modifiables et souvent gratuits
 
