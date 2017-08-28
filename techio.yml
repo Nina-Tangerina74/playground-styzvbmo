@@ -10,10 +10,10 @@ plan:
   - title: Langages et OS
     statement: markdowns/langages.md
     
-  - title: JavaScript : les variables
+  - title: JavaScript - Les variables
     statement: markdowns/variables.md
 
-  - title: Les tableaux en JavaScript
+  - title: JavaScrpit - Les tableaux
     statement: markdowns/tableaux.md
 
 projects:
