@@ -6,9 +6,9 @@
 
 // { autofold
 module.exports = {
-	variables: num
-	variables: txt
-	variables: bin
-	variables: flt	
+	num: num
+	txt: txt
+	bin: bin
+	flt: flt	
 };
 // }
