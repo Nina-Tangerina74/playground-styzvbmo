@@ -9,9 +9,12 @@ plan:
 
   - title: Langages et OS
     statement: markdowns/langages.md
+    
+  - title: JavaScript : les variables
+    statement: markdowns/variables.md
 
   - title: Les tableaux en JavaScript
-    statement: markdowns/tableau1.md
+    statement: markdowns/tableaux.md
 
 projects:
   js:
