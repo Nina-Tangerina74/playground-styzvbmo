@@ -4,10 +4,10 @@ var mod = require('./variables1.js');
 it("Création des variables : num, txt, bin et flt", function () {
   try
   {
-    assert.Equal( 255, mod.num );
-    assert.Equal( "255", mod.txt );
-    assert.Equal( true, mod.bin );
-    assert.Equal( 7.23, mod.flt );
+    assert.equal( 255, mod.num );
+    assert.equal( "255", mod.txt );
+    assert.equal( true, mod.bin );
+    assert.equal( 7.23, mod.flt );
   }
   catch (error)
   {
