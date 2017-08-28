@@ -1,5 +1,7 @@
 # JavaScript - Les variables
 
+## La déclaration
+
 Dans l'exercice ci-dessous vous devez créer les variables suivantes : 
 - __num__ qui contient le nombre 255  
 - __txt__ qui contient la chaine de caractère *255*  
