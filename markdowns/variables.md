@@ -30,7 +30,7 @@ Dans l'exercice ci-dessous vous devez créer les variables suivantes :
 - Affichez le résultat de __txt__ + __num__ avec la commande _console.log( txt + num );_
 - Affichez le résultat de __num__ + __txt__
 
-@[Créez les variables et réalisez les opérations demandées]({ "stubs": ["variables3.js"], "command": "node_modules/mocha/bin/mocha variables3.js --reporter list" })
+@[Créez les variables et réalisez les opérations demandées]({ "stubs": ["variables3.js"], "command": "node variables3.js" })
 
 ?[Ce programme met en évidence :]
 -[ ] Que le la variable txt a été traitée comme un nombre
