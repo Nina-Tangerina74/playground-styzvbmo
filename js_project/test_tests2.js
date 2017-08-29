@@ -1,5 +1,5 @@
 ﻿﻿var assert = require('assert');
-var mod = require('./test2.js');
+var mod = require('./tests2.js');
 
 it("myFct doit retourner arg1.arg2 + arg1 + arg2", function () {
   try
