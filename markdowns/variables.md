@@ -32,3 +32,21 @@ Dans l'exercice ci-dessous vous devez créer les variables suivantes :
 
 @[Créez les variables et réalisez les opérations demandées]({ "stubs": ["variables3.js"], "command": "node_modules/mocha/bin/mocha variables3.js --reporter list" })
 
+?[Ce programme met en évidence :]
+-[ ] Que le la variable txt a été traitée comme un nombre
+-[X] Que le la variable num a été traitée comme une chaîne de caractère
+-[X] Que le langage JavaScript réalise des conversions automatiques
+-[X] Qu'il est dangeureux de faire des opérations avec des variables de types différents
+-[X] Qu'il faut explicitement écrire les conversions dans le programme pour ne pas avoir de mauvaises surprises
+-[X] Que le langage JavaScript est faiblement typé
+-[ ] Que le langage JavaScript est fortement typé
+
+Dans cet exercice vous devez créer les variables suivantes : 
+- __num__ qui contient le nombre 23  
+- __txt__ qui contient la chaine de caractère *33*
+- __tmp__ qui contient le nombre 0  
+- Convertir la chaîne contenue dans __txt__ en nombre avec *parseInt()* et mettre le résultat dans __tmp__  
+- Ajouter à __num__ le contenu de __tmp__  
+
+@[Créez les variables et réalisez les opérations demandées]({ "stubs": ["variables4.js"], "command": "node_modules/mocha/bin/mocha test_variables4.js --reporter list" })
+
