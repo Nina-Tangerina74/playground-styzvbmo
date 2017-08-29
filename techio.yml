@@ -1,6 +1,9 @@
 title : Exercices pour débutants en Informatique
 
 plan:
+  - title: Introduction
+    statement: markdowns/intro.md
+
   - title: Fonctionnement des machines informatiques
     statement: markdowns/architecture.md
 
