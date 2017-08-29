@@ -6,7 +6,7 @@
 
 Dans l'exercice ci-dessous vous devez créer les variables suivantes : 
 - __num__ qui contient le nombre 255  
-- __txt__ qui contient la chaine de caractère *255*  
+- __txt__ qui contient la chaîne de caractère *255*  
 - __bin__ qui contient la valeur booléenne *vraie*  
 - __flt__ qui contient la valeur 7,23  
 
@@ -26,7 +26,7 @@ Reprenez la déclaration des variables précédentes et :
 
 Dans l'exercice ci-dessous vous devez créer les variables suivantes : 
 - __num__ qui contient le nombre 23  
-- __txt__ qui contient la chaine de caractère *33*  
+- __txt__ qui contient la chaîne de caractère *33*  
 - Affichez le résultat de __txt__ + __num__ avec la commande _console.log( txt + num );_
 - Affichez le résultat de __num__ + __txt__
 
@@ -50,3 +50,8 @@ Dans cet exercice vous devez créer les variables suivantes :
 
 @[Créez les variables et réalisez les opérations demandées]({ "stubs": ["variables4.js"], "command": "node_modules/mocha/bin/mocha test_variables4.js --reporter list" })
 
+Reprenez l'exercice précédent mais sans la variable __tmp__. Vous devez donc :
+- Créer les variables : __num__ qui contient le nombre 23 et __txt__ qui contient la chaine de caractère *33*  
+- Convertir la chaîne contenue dans __txt__ en nombre avec *parseInt()* et ajouter le résultat à __num__.  
+
+@[Créez les variables et réalisez les opérations demandées]({ "stubs": ["variables5.js"], "command": "node_modules/mocha/bin/mocha test_variables5.js --reporter list" })
