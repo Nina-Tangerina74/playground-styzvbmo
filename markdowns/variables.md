@@ -1,6 +1,9 @@
 # __JavaScript - Les variables__
 
-## Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/05_javascript_debut.pdf) est disponible sur le site de l'IREM.
+
+## Le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/05_javascript_debut.pdf) est disponible sur le site de l'IREM.  
+
+
 
 ## Déclaration des variables
 
@@ -30,5 +33,5 @@ Dans l'exercice ci-dessous vous devez créer les variables suivantes :
 - Affichez le résultat de __txt__ + __num__ avec la commande _console.log( txt + num );_
 - Affichez le résultat de __num__ + __txt__
 
-@[Créez les variables et réalisez les opérations demandées]({ "stubs": ["variables3.js"] })
+@[Créez les variables et réalisez les opérations demandées]({ "stubs": ["variables3.js"], "command": "node_modules/mocha/bin/mocha variables3.js --reporter list" })
 
