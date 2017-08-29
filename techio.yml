@@ -28,4 +28,4 @@ plan:
 projects:
   js:
     root: "/js_project"
-    runner: node-npm-runner
+    runner: techio/node-npm-runner
