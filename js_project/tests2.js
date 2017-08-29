@@ -1,4 +1,5 @@
 // Ecrivez la fonction myFct
+// utilisez Number.MIN_VALUE et typeof( )
 
 
 
