@@ -26,7 +26,7 @@ Reprenez le fonction myFct du chapitre précédent et complétez là pour qu'ell
 
 Créez une fonction nommée __aprec__ qui :
 - prend une note sur 20 en argument
-- renvoie _Ideux_ si la note est entre 0 et 7 exclus
+- renvoie _Hideux_ si la note est entre 0 et 7 exclus
 - renvoie _Moche_ si la note entre 7 et 10 exclus
 - renvoie _Nice_ si la note entre 10 et 15 exclus
 - renvoie _GG_ si la note entre 15 et 20 inclus

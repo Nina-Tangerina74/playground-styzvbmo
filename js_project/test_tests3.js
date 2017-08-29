@@ -4,8 +4,8 @@ var mod = require('./tests3.js');
 it("aprec doit donner une appréciation :", function () {
   try
   {
-	assert.equal( "Ideux", mod.aprec(0) );
-	assert.equal( "Ideux", mod.aprec(5);
+	assert.equal( "Hideux", mod.aprec(0) );
+	assert.equal( "Hideux", mod.aprec(5);
 	assert.equal( "Moche", mod.aprec(7) );
 	assert.equal( "Moche", mod.aprec(9) );
 	assert.equal( "Nice", mod.aprec(10) );
