@@ -4,6 +4,6 @@
 
 // { autofold
 module.exports = {
-	isoNum: isoNum
+	myFct: myFct
 };
 // }
