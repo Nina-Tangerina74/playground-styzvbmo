@@ -6,11 +6,13 @@
 
 Dans cet exercice vous devez créer une fonction nommée __isoNum__ qui renvoie le nombre 42
 
-@[Dans cet exercice vous devez créer une fonction nommée __isoNum__ qui renvoie le nombre 42]({ "stubs": ["fonctions1.js"], "command": "node_modules/mocha/bin/mocha test_fonctions1.js --reporter list" })
+@[Créez la fonction isoNum]({ "stubs": ["fonctions1.js"], "command": "node_modules/mocha/bin/mocha test_fonctions1.js --reporter list" })
 
 ## Fonction avec arguments
 
-Créez maintenant une fonction nommée __myFct__ qui prend 2 arguments (arg1 et arg2) et qui renvoie comme résultat : arg1.arg2 + arg1 + arg2
+Créez maintenant une fonction nommée __myFct__ :
+- Qui prend 2 arguments (arg1 et arg2)
+- Qui renvoie comme résultat : arg1.arg2 + arg1 + arg2
 
 @[Créez maintenant une fonction nommée __myFct__ qui prend 2 arguments (arg1 et arg2) et qui renvoie comme résultat : arg1.arg2 + arg1 + arg2]({ "stubs": ["fonctions2.js"], "command": "node_modules/mocha/bin/mocha test_fonctions2.js --reporter list" })
 
