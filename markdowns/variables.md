@@ -1,4 +1,4 @@
-# __JavaScript - Les variables__
+# __JavaScript - __ Les variables
 
 
 ## Le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/05_javascript_debut.pdf) est disponible sur le site de l'IREM.  

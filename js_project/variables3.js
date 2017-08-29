@@ -3,10 +3,3 @@
 
 
 
-
-// { autofold
-module.exports = {
-	num: num,
-	txt: txt
-};
-// }
