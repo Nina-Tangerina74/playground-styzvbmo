@@ -1,5 +1,7 @@
 # JavaScript - Les variables
 
+Je vous rappelle que le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/05_javascript_debut.pdf) est disponible sur le site de l'IREM.
+
 ## Déclaration des variables
 
 Dans l'exercice ci-dessous vous devez créer les variables suivantes : 
@@ -10,7 +12,7 @@ Dans l'exercice ci-dessous vous devez créer les variables suivantes :
 
 @[Créez les variables demandées ci-dessus]({ "stubs": ["variables1.js"], "command": "node_modules/mocha/bin/mocha test_variables1.js --reporter list" })
 
-Reprenez la déclaration de vos variables précédente et :
+Reprenez la déclaration des variables précédentes et :
 - Appliquez à __num__ l'opérateur __d'incrémentation__  
 - Concaténez à la chaîne __txt__ la chaîne " est ici une chaîne de caractères"  
 - Inversez la valeur logique de __bin__  

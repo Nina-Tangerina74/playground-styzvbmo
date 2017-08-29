@@ -1,4 +1,4 @@
-// Créez ci-dessous les variables demandées
+// Déclarez les variables comme dans l'exercice précédent et appliquez les opérations demandées
 
 
 
