@@ -9,7 +9,7 @@ Ecrivez une fonction nommée __isTooLong__ qui :
 - renvoie *vrai* si la longueur de la chaîne dépasse 10 caractères
 - renvoie *faux* dans les autres cas
 
-Conseil 💡 : utilisez la méthode __str.length()__ pour connaitre la taille chaîne de caractères __str__
+Conseil 💡 : utilisez __str.length__ pour connaitre la taille chaîne de caractères __str__
 
 @[Créez la fonction isTooLong demandée]({ "stubs": ["tests1.js"], "command": "node_modules/mocha/bin/mocha test_tests1.js --reporter list" })
 
