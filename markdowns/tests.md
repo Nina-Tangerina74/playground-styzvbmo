@@ -2,7 +2,7 @@
 
 # Le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/05_javascript_debut.pdf) est disponible sur le site de l'IREM.  
 
-## Test sur la longueur d'une chaîne de cacaractères
+## Test sur la longueur d'une chaîne de caractères
 
 Ecrivez une fonction nommée __isTooLong__ qui :
 - prend une chaîne de caractères comme argument
@@ -22,4 +22,15 @@ Reprenez le fonction myFct du chapitre précédent et complétez là pour qu'ell
 
 @[Créez la fonction myFct demandée]({ "stubs": ["tests2.js"], "command": "node_modules/mocha/bin/mocha test_tests2.js --reporter list" })
 
+## Tests imbriqués
+
+Créez une fonction nommée __aprec__ qui :
+- prend une note sur 20 en argument
+- renvoie _Ideux_ si la note est entre 0 et 7 exclus
+- renvoie _Moche_ si la note entre 7 et 10 exclus
+- renvoie _Nice_ si la note entre 10 et 15 exclus
+- renvoie _GG_ si la note entre 15 et 20 inclus
+- renvoie _BUG_ si la note n'est pas correcte
+
+@[Créez la fonction aprec demandée]({ "stubs": ["tests3.js"], "command": "node_modules/mocha/bin/mocha test_tests3.js --reporter list" })
 
