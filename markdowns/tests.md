@@ -15,7 +15,7 @@ Ecrivez une fonction nommée __isTooLong__ qui :
 
 ## Test sur le type des paramètres
 
-Reprenez le fonction myFct du chapitre précédent et complétez là pour qu'elle renvoie *-999999* si un argument n'est pas un nombre
+Reprenez le fonction myFct du chapitre précédent et complétez là pour qu'elle renvoie *-999999999* si un argument n'est pas un nombre
 
 💡 Utilisez __typeof( varia )__ pour connaitre le type de la variable __varia__. Si varia est un nombre typeof retourne la chaîne de caractère "number".  
 💡 Vous pouvez tester si deux conditions sont vraies avec un __AND__ logique (condition1 __ET__ condition2) comme ceci : ( test1 __&&__ test2 ).
