@@ -13,7 +13,13 @@ plan:
   - title: JavaScript - Les variables
     statement: markdowns/variables.md
 
-  - title: JavaScrpit - Les tableaux
+  - title: JavaScript - Les fonctions
+    statement: markdowns/fonctions.md
+
+  - title: JavaScript - Les tests conditionnels
+    statement: markdowns/tests.md
+
+  - title: JavaScript - Les tableaux
     statement: markdowns/tableaux.md
 
 projects:
