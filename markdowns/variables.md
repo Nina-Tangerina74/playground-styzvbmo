@@ -10,4 +10,11 @@ Dans l'exercice ci-dessous vous devez créer les variables suivantes :
 
 @[Créez les variables demandées ci-dessus]({ "stubs": ["variables1.js"], "command": "node_modules/mocha/bin/mocha test_variables1.js --reporter list" })
 
+Reprenez la déclaration de vos variables précédente et :
+- Appliquez à __num__ l'opérateur __d'incrémentation__  
+- Concaténez à la chaîne __txt__ la chaîne " est ici une chaîne de caractères"  
+- Inversez la valeur logique de __bin__  
+- Ajoutez __flt__ la valeur contenue dans __num__  
+
+@[Créez les variables demandées ci-dessus]({ "stubs": ["variables2.js"], "command": "node_modules/mocha/bin/mocha test_variables2.js --reporter list" })
 
