@@ -1,5 +1,5 @@
 ﻿﻿var assert = require('assert');
-var mod = require('./tableau2.js');
+var mod = require('./tableau1.js');
 
 it("Ajout en fin de tableau", function () {
   try
