@@ -17,6 +17,9 @@ Créez un tableau qui se nomme __tablo__ et qui contient _1, 2 et 3_
 @[Réalisez les opérations demandées]({ "stubs": ["tableau2.js"], "command": "node_modules/mocha/bin/mocha test_tableau2.js --reporter list" })
 
 ## Ajoutez des données au tableau
+- Reprenez __tablo__ qui contient _1, 2 et 3_ de l'exercice précédent
+- Ajoutez une ligne de code qui ajoute la valeur 13 à la fin du tableau
+- Ajoutez une autre ligne de code qui ajoute la valeur 14 à la fin du tableau
 
-@[Créez un tableau qui se nomme tablo et qui contient 1, 2 et 3]({ "stubs": ["tableau1.js"], "command": "node_modules/mocha/bin/mocha test_tableau1.js --reporter list" })
+@[Réalisez les opérations demandées]({ "stubs": ["tableau2.js"], "command": "node_modules/mocha/bin/mocha test_tableau3.js --reporter list" })
 
