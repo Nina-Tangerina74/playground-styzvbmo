@@ -24,6 +24,12 @@ plan:
 
   - title: JavaScript - Les tableaux
     statement: markdowns/tableaux.md
+    
+  - title: JavaScript - Les boucles
+    statement: markdowns/boucles.md
+    
+#  - title: JavaScript - Les chaînes
+#    statement: markdowns/chaines.md
 
 projects:
   js:
