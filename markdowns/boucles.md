@@ -2,9 +2,13 @@
 
 # Le [support du cours](http://ens-info.irem.univ-mrs.fr/wp-content/uploads/06_javascript_fin.pdf) est disponible sur le site de l'IREM.  
 
-## Création d'un tableau
+## Boucle et fonction
 
-Créez un tableau qui se nomme __tablo__ et qui contient _1, 2 et 3_
+Créez une fonction __puissance__ qui :
+- prend deux arguments
+- réalise le calcul du premier argument élevé à la puissance du deuxième sas utiliser les fonctions mahtématiques de JS
 
-@[Créez le tableau demandé]({ "stubs": ["tableau1.js"], "command": "node_modules/mocha/bin/mocha test_tableau1.js --reporter list" })
+💡 Utilisez une boucle par exemple x^n = x * x * x *x * ... n fois
+
+@[Réalisez la fonction puissance]({ "stubs": ["boucles1.js"], "command": "node_modules/mocha/bin/mocha test_boucles1.js --reporter list" })
 
