@@ -19,6 +19,8 @@ describe("Tri des tableaux", function(){
 		try
 		{
 			console.log( mod.tabloInit );
+			mod.tabloInit[3] = 0;			
+			console.log( mod.tabloInit );
 			mod.sortNumbers();
 			assert.deepEqual( [2,4,7,5,3].sort(), mod.tabloInf.sort() );
 			assert.deepEqual( [10,25,30,84,48,26,102,15,20].sort(), mod.tabloSup.sort() );
