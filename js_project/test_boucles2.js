@@ -7,7 +7,7 @@ var pY = [100];
 for ( var i = 1 ; i < 19 ; i++)
 {
 	pX[i] = pX[i-1] + 40;
-	pX[i] = pX[i-1] + 30;
+	pY[i] = pY[i-1] + 30;
 }
 
 beforeEach(function() {
