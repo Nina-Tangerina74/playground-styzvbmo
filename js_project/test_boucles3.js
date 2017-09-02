@@ -7,7 +7,6 @@ describe("Tri des tableaux", function(){
 		{
 		  	assert.deepEqual( [], mod.tabloInf );
 			assert.deepEqual( [], mod.tabloSup );
-			mod.tabloInit = [10,25,30,2,4,7,48,26,5,15,20,3];
 		}
 		catch (error)
 		{
@@ -19,6 +18,7 @@ describe("Tri des tableaux", function(){
 	it("Tri des tableaux", function () {
 		try
 		{
+			mod.tabloInit = [10,25,30,2,4,7,48,26,5,15,20,3];
 			mod.sortNumbers();
 			assert.deepEqual( [2,4,7,5,3].sort(), mod.tabloInf.sort() );
 			assert.deepEqual( [10,25,30,48,26,15,20].sort(), mod.tabloSup.sort() );
