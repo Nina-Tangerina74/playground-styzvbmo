@@ -10,24 +10,28 @@ for ( var i = 1 ; i < 19 ; i++)
 	pY[i] = pY[i-1] + 30;
 }
 
-beforeEach(function() {
-	assert.deepEqual( [], mod.posX );
-	assert.deepEqual( [], mod.posY );	
+describe("Initialisation des tableaux posX et posY", function(){
+	before(function(){
+	  	assert.deepEqual( [], mod.posX );
+		assert.deepEqual( [], mod.posY );
+	});
+	
+	it("Remplissage des tableaux posX et posY", function () {
+		try
+		{
+			mod.initXY( 100,100 );
+			assert.deepEqual( pX, mod.posX );
+			assert.deepEqual( pY, mod.posY );
+		}
+		catch (error)
+		{
+			printMessage('Conseil 💡', "Attention aux valeurs limites des tableaux 🤔");
+			throw error;
+		}
+	});
 });
 
-it("Initialisation des tableaux posX et posY", function () {
-  try
-  {
-	mod.initXY( 100,100 );
-	assert.deepEqual( pX, mod.posX );
-	assert.deepEqual( pY, mod.posY );
-  }
-  catch (error)
-  {
-    printMessage('Conseil 💡', "Attention aux valeurs limites des tableaux 🤔");
-    throw error;
-  }
-});
+
 
 function printMessage(channel, message)
 {
