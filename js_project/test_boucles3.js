@@ -20,8 +20,8 @@ describe("Tri des tableaux", function(){
 		try
 		{
 			mod.sortNumbers();
-			assert.deepEqual( [2,4,7,5,3], mod.tabloInf );
-			assert.deepEqual( [10,25,30,48,26,15,20], mod.tabloSup );
+			assert.deepEqual( [2,4,7,5,3].sort(), mod.tabloInf.sort() );
+			assert.deepEqual( [10,25,30,48,26,15,20].sort(), mod.tabloSup.sort() );
 		}
 		catch (error)
 		{
