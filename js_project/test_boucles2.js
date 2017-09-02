@@ -10,7 +10,7 @@ for ( var i = 1 ; i < 19 ; i++)
 	pY[i] = pY[i-1] + 30;
 }
 
-describe("Initialisatio des tableaux posX et posY", function(){
+describe("Initialisation des tableaux posX et posY", function(){
 	before(function(){
 		try
 		{

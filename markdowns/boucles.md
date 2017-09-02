@@ -23,6 +23,17 @@ Créez une fonction __initXY__ qui :
 - qui prend en 2ème argument l'ordonnée du 1er objet
 - qui calcule les abscisses et ordonnés des objects de la série sachant qu'il doivent être espacés de 40 pixels (+40) les uns des autres en abscisse et de 30 pixels (+30) en ordonnée
 
-@[Réalisez la fonction puissance]({ "stubs": ["boucles2.js"], "command": "node_modules/mocha/bin/mocha test_boucles2.js --reporter list" })
+@[Réalisez la fonction d'initialisation]({ "stubs": ["boucles2.js"], "command": "node_modules/mocha/bin/mocha test_boucles2.js --reporter list" })
 
 ## Modifiez un tableau avec push et pop
+
+On peut aussi manipuler les tableaux comme des flux en utilisant les fonctions __pop__, __push__, __shift__ et __unshift__. Pour avoir les détails regardez dans [cette documentation](https://www.w3schools.com/JSREF/jsref_obj_array.asp).
+
+Vous disposez d'un tableau contenant des nombres aléatoires par exemple : __tabloInit = [10,25,30,84,2,4,7,48,26,102,5,15,20,3]__ et vous devez créer une fonction __sortNumbers__ qui va ranger :
+- tous les éléments inférieurs à 10 dans le tableau __tabloInf__
+- et tous les éléments supérieurs ou égaux à 10 dans le tableau __tabloSup__
+
+💡 la fonction doit fonctionner quel que soit le tableau __tabloInit__
+
+@[Réalisez la fonction de tri]({ "stubs": ["boucles3.js"], "command": "node_modules/mocha/bin/mocha test_boucles3.js --reporter list" })
+

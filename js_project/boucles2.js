@@ -1,4 +1,4 @@
-// Réalisez la fonction puissance
+// Réalisez la fonction initXY
 
 var posX = [];
 var posY = [];
