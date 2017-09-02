@@ -12,8 +12,16 @@ for ( var i = 1 ; i < 19 ; i++)
 
 describe("Initialisatio des tableaux posX et posY", function(){
 	before(function(){
-	  	assert.deepEqual( [], mod.posX );
-		assert.deepEqual( [], mod.posY );
+		try
+		{
+		  	assert.deepEqual( [], mod.posX );
+			assert.deepEqual( [], mod.posY );
+		}
+		catch (error)
+		{
+			printMessage('Conseil 💡', "Les tableaux doivent être vides avant l'appel de la fonction ! Coquin ! 🤔");
+			throw error;
+		}
 	});
 	
 	it("Remplissage des tableaux posX et posY", function () {
@@ -30,8 +38,6 @@ describe("Initialisatio des tableaux posX et posY", function(){
 		}
 	});
 });
-
-
 
 function printMessage(channel, message)
 {
