@@ -18,12 +18,13 @@ describe("Tri des tableaux", function(){
 	it("Tri des tableaux", function () {
 		try
 		{
-			console.log( mod.tabloInit );
-			mod.tabloInit[3] = 0;			
-			console.log( mod.tabloInit );
-			mod.sortNumbers();
-			assert.deepEqual( [2,4,7,5,3].sort(), mod.tabloInf.sort() );
-			assert.deepEqual( [10,25,30,84,48,26,102,15,20].sort(), mod.tabloSup.sort() );
+			var tabloTest = [10,25,30,2,7,48,26,5,15,20,3];
+			var tI = [];
+			var tS = [];
+
+			mod.sortNumbers( tabloTest, tI, tS );
+			assert.deepEqual( [2,7,5,3].sort(), tI.sort() );
+			assert.deepEqual( [10,25,30,48,26,15,20].sort(), tS.sort() );
 		}
 		catch (error)
 		{
