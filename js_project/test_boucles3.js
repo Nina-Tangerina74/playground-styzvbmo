@@ -1,20 +1,6 @@
 ﻿﻿var assert = require('assert');
 var mod = require('./boucles3.js');
 
-describe("Tri des tableaux", function(){
-	before(function(){
-		try
-		{
-		  	assert.deepEqual( [], mod.tabloInf );
-			assert.deepEqual( [], mod.tabloSup );
-		}
-		catch (error)
-		{
-			printMessage('Conseil 💡', "Les tableaux de résultats doivent être vides avant l'appel de la fonction ! Coquin ! 🤔");
-			throw error;
-		}
-	});
-	
 	it("Tri des tableaux", function () {
 		try
 		{
@@ -32,7 +18,6 @@ describe("Tri des tableaux", function(){
 			throw error;
 		}
 	});
-});
 
 function printMessage(channel, message)
 {
