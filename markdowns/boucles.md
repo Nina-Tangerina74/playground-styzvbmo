@@ -29,7 +29,7 @@ Créez une fonction __initXY__ qui :
 
 On peut aussi manipuler les tableaux comme des flux en utilisant les fonctions __pop__, __push__, __shift__ et __unshift__. Pour avoir les détails regardez dans [cette documentation](https://www.w3schools.com/JSREF/jsref_obj_array.asp).
 
-Vous disposez d'un tableau contenant des nombres aléatoires par exemple : __tabloInit = [10,25,30,84,2,4,7,48,26,102,5,15,20,3]__ et vous devez créer une fonction __sortNumbers(tInit, tInf, tSup)__ qui va ranger :
+Vous disposez d'un tableau contenant des nombres aléatoires et vous devez créer une fonction __sortNumbers(tInit, tInf, tSup)__ qui va ranger :
 - tous les éléments de __tInit__ inférieurs à 10 dans le tableau __tInf__
 - et tous les éléments de __tInit__ supérieurs ou égaux à 10 dans le tableau __tSup__
 
