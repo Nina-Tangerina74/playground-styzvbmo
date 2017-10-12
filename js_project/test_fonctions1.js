@@ -1,4 +1,4 @@
-﻿﻿var assert = require('assert');
+﻿var assert = require('assert');
 var mod = require('./fonctions1.js');
 
 it("isoNum doit retourner 42", function () {

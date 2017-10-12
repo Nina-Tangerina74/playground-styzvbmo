@@ -1,4 +1,4 @@
-﻿﻿var assert = require('assert');
+﻿var assert = require('assert');
 var mod = require('./boucles2.js');
 
 var pX = [100];

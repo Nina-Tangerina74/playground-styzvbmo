@@ -5,7 +5,8 @@ it("Création des variables : num, txt, bin et flt", function () {
   try
   {
     assert.equal( 255, mod.num );
-    assert.deepEqual( "255", mod.txt );
+    assert.equal( "255", mod.txt );
+    assert.equal( typeof(mod.txt), string );
     assert.equal( true, mod.bin );
     assert.equal( 7.23, mod.flt );
   }
