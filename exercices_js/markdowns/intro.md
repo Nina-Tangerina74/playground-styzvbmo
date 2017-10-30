@@ -2,6 +2,8 @@
 
 Ce *playground* [Tech.io](https://tech.io/) est destiné en premier lieu aux élèves de lycée qui apprennent maintenant l'informatique dans les cours d'ICN (Informatique et Création Numérique) et d'ISN (Informatique et Système Numérique).
 
+Cette partie comprend les exercices sur la partie JavaScript. Les qcms sur l'histoire et les principes de l'informatique. Les  sont disponibles [ici](https://tech.io/playgrounds/8942).
+
 Les apprentissages préalables sont disponibles sous forme de [parcours d'autoformation](http://ens-info.irem.univ-mrs.fr/?p=26) sur le site du [Groupe Enseignement de l’informatique](http://ens-info.irem.univ-mrs.fr/) de [l'IREM d'Aix-Marseille](https://irem.univ-amu.fr/).
 
 A l'issue de cette formation (Septembre->Décembre) les élèves réalisent, de Janvier à Mai, des [projets](http://isnrimbaud.esy.es/) que vous pouvez retrouver sur leur [site web](http://isnrimbaud.esy.es/).

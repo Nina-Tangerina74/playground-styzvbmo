@@ -1,18 +1,9 @@
-title : Exercices pour débutants en Informatique
+title : Exercices de JavaScript pour débutants en Informatique
 
 plan:
   - title: Introduction
     statement: markdowns/intro.md
 
-  - title: Fonctionnement des machines informatiques
-    statement: markdowns/architecture.md
-
-  - title: Apprendre à compter
-    statement: markdowns/binaire.md
-
-  - title: Langages et OS
-    statement: markdowns/langages.md
-    
   - title: JavaScript - Les variables
     statement: markdowns/variables.md
 
