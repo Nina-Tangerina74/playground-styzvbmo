@@ -7,7 +7,7 @@ it("Création des variables : num, txt, bin et flt", function () {
     assert.equal( 256, mod.num );
     assert.equal( "255 est ici une chaîne de caractères", mod.txt );
     assert.equal( false, mod.bin );
-    assert.equal( 256+7.23, mod.flt );
+    assert.equal( 7.23+256, mod.flt );
   }
   catch (error)
   {

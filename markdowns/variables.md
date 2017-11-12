@@ -18,7 +18,7 @@ Reprenez la déclaration des variables précédentes et :
 - Appliquez à __num__ l'opérateur __d'incrémentation__  
 - Concaténez à la chaîne __txt__ la chaîne " est ici une chaîne de caractères"  
 - Inversez la valeur logique de __bin__  
-- Ajoutez __flt__ la valeur contenue dans __num__  
+- Ajoutez à __flt__ la valeur contenue dans __num__  
 
 @[Créez les variables et appliquez les opérations demandées]({ "stubs": ["variables2.js"], "command": "node_modules/mocha/bin/mocha test_variables2.js --reporter list" })
 
