@@ -18,7 +18,7 @@ Ecrivez une fonction nommée __isTooLong__ qui :
 Reprenez la fonction myFct du chapitre précédent et complétez là pour qu'elle renvoie *-999999999* si un argument n'est pas un nombre
 
 💡 Utilisez __typeof( varia )__ pour connaitre le type de la variable __varia__. Si varia est un nombre typeof retourne la chaîne de caractère "number".  
-💡 Vous pouvez tester si deux conditions sont vraies simultanément avec un __AND__ logique (condition1 __ET__ condition2) comme ceci : ( test1 __&&__ test2 ).
+💡 Vous pouvez tester si deux conditions sont vraies simultanément avec un __AND__ logique (condition1 __ET__ condition2) comme ceci : ( test1 __&&__ test2 ).  
 💡 Vous pouvez tester si l'une __OU__ l'autre des conditions sont vraies avec un __OR__ logique (condition1 __OR__ condition2) comme ceci : ( test1 __||__ test2 ).
 
 @[Créez la fonction myFct demandée]({ "stubs": ["tests2.js"], "command": "node_modules/mocha/bin/mocha test_tests2.js --reporter list" })
