@@ -10,8 +10,6 @@ for ( var i = 1 ; i < 20 ; i++)
 	pY[i] = pY[i-1] + 30;
 }
 
-console.log( pX );
-
 describe("Initialisation des tableaux posX et posY", function(){
 	before(function(){
 		try
@@ -26,7 +24,7 @@ describe("Initialisation des tableaux posX et posY", function(){
 		}
 	});
 	
-	it("Remplissage des tableaux posX et posY", function () {
+	it("Remplissage des tableaux posX et posY avec x0=100 et y0=200", function () {
 		try
 		{
 			mod.initXY( 100,200 );
