@@ -18,8 +18,8 @@ On souhaite stocker les positions d"une série de 20 objets mobiles (mobs) dans 
 - __posX__ qui contient la série des abscisses des objets
 - __posY__ qui contient la série des ordonnées des objets
 
-Créez une fonction __initXY__ qui :
-- prends qui prend en 1er argument l'abscisse du 1er objet
+Créez une fonction __initXY__ :
+- qui prend en 1er argument l'abscisse du 1er objet
 - qui prend en 2ème argument l'ordonnée du 1er objet
 - qui calcule les abscisses et ordonnés des objects de la série sachant qu'il doivent être espacés de 40 pixels (+40) les uns des autres en abscisse et de 30 pixels (+30) en ordonnée
 
