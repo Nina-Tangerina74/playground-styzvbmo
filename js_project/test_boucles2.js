@@ -2,9 +2,9 @@
 var mod = require('./boucles2.js');
 
 var pX = [100];
-var pY = [100];
+var pY = [200];
 
-for ( var i = 1 ; i < 19 ; i++)
+for ( var i = 1 ; i < 20 ; i++)
 {
 	pX[i] = pX[i-1] + 40;
 	pY[i] = pY[i-1] + 30;
@@ -29,7 +29,7 @@ describe("Initialisation des tableaux posX et posY", function(){
 	it("Remplissage des tableaux posX et posY", function () {
 		try
 		{
-			mod.initXY( 100,100 );
+			mod.initXY( 100,200 );
 			assert.deepEqual( pX, mod.posX );
 			assert.deepEqual( pY, mod.posY );
 		}
