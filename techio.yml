@@ -1,6 +1,6 @@
 title: Exercices
 plan:
-- title: Introduction
+- title: ''
   statement: markdowns/intro.md
 - title: JavaScript - Les variables
   statement: markdowns/variables.md
