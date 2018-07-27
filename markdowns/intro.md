@@ -1,6 +1,5 @@
 # Introduction
 
-Ce *playground* [Tech.io](https://tech.io/) est destiné en premier lieu aux élèves de lycée qui apprennent maintenant l'informatique dans les cours d'ICN (Informatique et Création Numérique) et d'ISN (Informatique et Système Numérique).
 
 Cette partie comprend les exercices sur la partie JavaScript. Les qcms sur l'histoire et les principes de l'informatique. Les  sont disponibles [ici](https://tech.io/playgrounds/8942).
 
