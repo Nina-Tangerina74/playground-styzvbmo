@@ -1,28 +1,19 @@
-title : Exercices de JavaScript pour débutants en Informatique
-
+title: Exercices ICN
 plan:
-  - title: Introduction
-    statement: markdowns/intro.md
-
-  - title: JavaScript - Les variables
-    statement: markdowns/variables.md
-
-  - title: JavaScript - Les fonctions
-    statement: markdowns/fonctions.md
-
-  - title: JavaScript - Les tests conditionnels
-    statement: markdowns/tests.md
-
-  - title: JavaScript - Les tableaux
-    statement: markdowns/tableaux.md
-    
-  - title: JavaScript - Les boucles
-    statement: markdowns/boucles.md
-    
-#  - title: JavaScript - Les chaînes
-#    statement: markdowns/chaines.md
-
+- title: Introduction
+  statement: markdowns/intro.md
+- title: JavaScript - Les variables
+  statement: markdowns/variables.md
+- title: JavaScript - Les fonctions
+  statement: markdowns/fonctions.md
+- title: JavaScript - Les tests conditionnels
+  statement: markdowns/tests.md
+- title: JavaScript - Les tableaux
+  statement: markdowns/tableaux.md
+- title: JavaScript - Les boucles
+  statement: markdowns/boucles.md
 projects:
   js:
-    root: "/js_project"
-    runner: techio/node-npm-runner
+    root: /js_project
+    runner:
+      name: techio/node-npm-runner
